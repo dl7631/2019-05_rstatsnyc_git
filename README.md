@@ -1,4 +1,4 @@
-This is an edit from R studio on my LAPTOP.
+This is an edit from R studio on my LAPTOP and GitHub merged.
 
 This is the content of the first change in this readme file.
 This is my file change # 2 (for the 3rd commit)
